@@ -1,11 +1,11 @@
 # Web-Scraping-Project-With-Laravel-
 Full project using API, PHP(Laravel), MySQL and CSV 
 
-#Install
+# Install
 composer install
 
-#Migrate Database (after giving the database name)
+# Migrate Database (after giving the database name)
 php artisan migrate
 
-#Run
+# Run
 php artisan serve
