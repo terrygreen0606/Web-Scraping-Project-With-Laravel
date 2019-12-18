@@ -1,5 +1,6 @@
 # Web-Scraping-Project-With-Laravel
-Full project using API, PHP(Laravel), MySQL and CSV 
+Full project using API, PHP(Laravel), MySQL and CSV.
+Provides the boilerplate for scraping, API, Laravel.
 
 # Install
 composer install
