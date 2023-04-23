@@ -13,7 +13,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "hamidjavadi/guid": "dev-master",
         "intervention/image": "^2.5",
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "6.18.*",
         "laravel/tinker": "^1.0",
         "skyh13/php-rtflex": "^0.4.0"
     },
